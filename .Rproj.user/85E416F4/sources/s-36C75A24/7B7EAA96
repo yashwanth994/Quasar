@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587644581788.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "43490160",
+    "id" : "7B7EAA96",
+    "lastKnownWriteTime" : 1587644593,
+    "last_content_update" : 1587644624464,
+    "path" : "C:/Users/91846/Desktop/Quasar/word.Rmd",
+    "project_path" : "word.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "last_setup_crc32" : "36C75A24bb338d19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
